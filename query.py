@@ -28,7 +28,7 @@ data = {
 }
 
 """
-Random text to test git.
+Random text to test git.   
 """
 
 collocation_to_change = re.compile(r'(?<=<<)[А-ЯЁа-яё\s]+(?=>>)')
