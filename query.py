@@ -27,6 +27,10 @@ data = {
  'pagesize': '100'
 }
 
+"""
+Random text to test git.
+"""
+
 collocation_to_change = re.compile(r'(?<=<<)[А-ЯЁа-яё\s]+(?=>>)')
 
 def get_line(res, window_min=3, window_max=15):
